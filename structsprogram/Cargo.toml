@@ -1,0 +1,6 @@
+[package]
+name = "structsprogram"
+version = "0.1.0"
+authors = ["Rui Loura <rjloura@gmail.com>"]
+
+[dependencies]
